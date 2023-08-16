@@ -27,3 +27,7 @@ li {
   line-height: 60px;
   
 }
+li {
+
+  text-transform: capitalize;
+}
