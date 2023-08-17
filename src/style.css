@@ -9,7 +9,14 @@ ul {
 li {
   list-style: none;
   
+  
 }
+small{
+  text-align: center;
+  margin: auto;
+  display: block;
+}
+
 .weather-app {
   font-family:'Quicksand', sans-serif; 
   padding: 20px;
