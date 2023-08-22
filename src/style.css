@@ -40,6 +40,7 @@ small{
   position: relative;
   font-size: 16px;
   top: -34px;
+  
 }
 
 .weather-temperature .active {
@@ -59,6 +60,7 @@ li {
   text-align: center;
 }
 .weather-forecast-date {
+
   font-size: 20px;
 }
 .weather-forecast-temperature {
