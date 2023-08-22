@@ -51,8 +51,7 @@ small{
 .weather-temperature .active:hover {
   text-decoration: none;
 }
-li {
-
+#description{
   text-transform: capitalize;
 }
 .weather-forecast {
